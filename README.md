@@ -46,5 +46,8 @@ N## avigation en Jetpack Compose: Practica, Agregar navegacion
 
 ## Adáptate a diferentes tamaños de pantalla: Practica, app de deportes
 
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/148c4043-ea59-4f08-8431-b069a75608c3)
 
 ## Cuestionario:
+
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/e8b9c5fc-5185-48ac-aeb7-7e5fe1568c64)
