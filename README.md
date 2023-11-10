@@ -14,4 +14,5 @@
 
 ## Componentes de la arquitectura: Agregar viewmodel a Dessert Clicker
 
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/dcf345c5-442e-40ef-9789-063dfe4bdf8e)
 
