@@ -26,7 +26,7 @@ Navigation en Jetpack Compose: Navegar entre pantallas con compose
 
 Navigation en Jetpack Compose: Prueba la app de Cupcake
 
-
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/aafb6538-b059-4c10-9219-7d876b615e7e)
 
 Navigation en Jetpack Compose: Practica, Agregar navegacion
 
