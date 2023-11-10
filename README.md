@@ -16,3 +16,8 @@
 
 ![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/dcf345c5-442e-40ef-9789-063dfe4bdf8e)
 
+## Cuestionario:
+
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/d9296a9b-956f-4e28-888d-b6f12afdaac1)
+
+
