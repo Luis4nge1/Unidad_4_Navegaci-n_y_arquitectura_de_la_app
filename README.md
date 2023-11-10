@@ -30,3 +30,22 @@ Navigation en Jetpack Compose: Prueba la app de Cupcake
 
 Navigation en Jetpack Compose: Practica, Agregar navegacion
 
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/cb4d3db2-a074-425f-b211-158397d594d2)
+
+## Cuestionario:
+
+![image](https://github.com/Luis4nge1/Unidad_4_Navegaci-n_y_arquitectura_de_la_app/assets/132635578/69f31297-1d31-4b05-ac4f-0060e59eb80f)
+
+Adáptate a diferentes tamaños de pantalla: App adaptable con navegacion dinamica
+
+
+
+Adáptate a diferentes tamaños de pantalla: App con diseño adaptable
+
+
+
+Adáptate a diferentes tamaños de pantalla: Practica, app de deportes
+
+
+
+Adáptate a diferentes tamaños de pantalla: Practica, app llamada My City
