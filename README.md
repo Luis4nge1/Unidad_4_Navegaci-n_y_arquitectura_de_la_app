@@ -1,4 +1,4 @@
-# Unidad_4_Navegaci-n_y_arquitectura_de_la_app
+# Unidad_4_Navegacion_y_arquitectura_de_la_app
 
 ## Componentes de la arquitectura: Etapas del ciclo de vida de la actividad
 
